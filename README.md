@@ -1,6 +1,3 @@
-Here is the properly formatted README file in Markdown syntax. Save this as `README.md` in your repository.
-
-```markdown
 # Google Play Store Data Analysis with PySpark
 
 Welcome to the **Google Play Store Data Analysis** project! This project leverages **PySpark** for large-scale data processing and analysis of app-related data from the Google Play Store.
@@ -33,9 +30,9 @@ The following technologies and platforms were used in this project:
 To explore and run this project, follow these steps:
 
 1. Clone this repository to your local machine:
-   ```bash
+
    git clone https://github.com/ajith-ks/google-playstore-analysis.git
-   ```
+   
 
 2. Open **Databricks** and upload the notebook `Google Playstore.ipynb` along with the dataset.
 
@@ -58,5 +55,4 @@ If you have any questions, feedback, or suggestions, feel free to reach out:
 - **GitHub**: [My GitHub Profile](https://github.com/ajith-ks)
 
 Happy exploring!
-```
 
